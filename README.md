@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Nicolás 👋
 
-<!--
-**nicokei9/nicokei9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a QA Tester with a focus on **Automation** and **API Testing**.  
+I enjoy working with tools like **Cypress**, **Postman**, **Mocha/Chai**, and using **GitHub Actions** to automate test execution.
 
-Here are some ideas to get you started:
+## 🚀 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧪 [QA Automation Portfolio](https://github.com/nicokei9/qa-automation-portfolio)  
+  UI automation tests using Cypress and API automation using Mocha/Chai.
+
+## 🛠️ Tools & Technologies
+
+- Cypress | Postman | Mocha & Chai | TypeScript | GitHub Actions | Node.js
+
+## 📫 How to reach me
+
+Feel free to connect or explore my work. I'm always learning and improving my testing skills!  
+- [LinkedIn](https://www.linkedin.com/in/nicolas-keidanski/)
